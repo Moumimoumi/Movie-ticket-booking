@@ -1,0 +1,1 @@
+I have designed a replica of the BookMyShow website, incorporating features such as ticket booking, food availability, and access to movie trailers.
