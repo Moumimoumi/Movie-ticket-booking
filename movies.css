@@ -1,7 +1,7 @@
 body {
     
     position: relative;
-    background-image: url(/img/theatre_bg.jpeg);
+    background-image: url(./img/theatre_bg.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
 }

@@ -1,7 +1,7 @@
 body 
 {   
     position: relative;
-    background-image: url(/img/Sandwich.jpg); 
+    background-image: url(./img/Sandwich.jpg); 
     background-repeat: no-repeat;
     background-size:cover;
     
